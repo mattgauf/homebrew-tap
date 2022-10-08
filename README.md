@@ -1,10 +1,10 @@
-# Mgauf Tap
+# mattgauf/tap
 
 ## How do I install these formulae?
 
-`brew install mgauf/tap/<formula>`
+`brew install mattgauf/tap/<formula>`
 
-Or `brew tap mgauf/tap` and then `brew install <formula>`.
+Or `brew tap mattgauf/tap` and then `brew install <formula>`.
 
 ## Documentation
 
